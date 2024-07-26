@@ -6,7 +6,7 @@ This project demonstrates Infinite slider using VanillaJS following features:
 - To start this project download the zip and doubleclick index.html
 
 
-![Image 1](./Screenshot_2.png)
+![My Animation](./demo.gif)
 
 - On the screenshot you can see moment of transition between slides
 
